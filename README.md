@@ -40,11 +40,12 @@ on employees of a corporation from the 1980s and 1990s.
 Tools: Python, Pandas, SQLAlchemy, NumPy, PostgreSQL, PrimaryKeys,
 ForeignKeys
 
-**Web Design Challenge | Written link to [GitHub](https://github.com/jacke1980/web-design-challenge)
+**Web Design Challenge | Written link to [GitHub](https://github.com/jacke1980/web-design-challenge)**
 
 The purpose of this project was to showcase our skill we learned using HTML and CSS to create a dashboard showing off the analysis of weather around the globe.
-Tools:  HTML and CSS
-Also visit [Page](https://jacke1980.github.io/)
+Tools:  HTML and CSS.
+
+For a complete website please visit [Page](https://jacke1980.github.io/)
 
 
 
